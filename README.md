@@ -40,8 +40,11 @@ Please visit the [site](https://phil13131.github.io/M7_Daily_Planner_APP/) hoste
 ## Screenshots
 ![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_9.png)
 ![Screenshot 2](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png)
-![Screenshot 3](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png)
-![Screenshot 4](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png)
+![Screenshot 3](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_11.png)
+![Screenshot 4](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_12.png)
+![Screenshot 5](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_13.png)
+![Screenshot 6](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_14.png)
+![Screenshot 7](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_15.png)
 
 <br>
 
