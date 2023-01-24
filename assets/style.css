@@ -1,0 +1,145 @@
+:root {
+font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgb(10, 10, 10);
+}
+
+  /* background: rgba(250, 246, 199, 0.541); */
+
+body {
+  background-image:url("./images/liverpool-fc.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+h1{
+  margin-bottom: 3rem;
+}
+
+h2{
+  margin-bottom: 2.25rem;
+  text-align: center;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 5rem;
+  font-weight: 500;
+}
+
+p {
+  margin-bottom: 4rem;
+  padding-bottom: 4rem;
+  border-bottom: 0.25rem solid rgb(250, 246, 199);
+}
+
+span {
+  font-size: 1.75rem;
+  color: white;
+}
+
+textarea{
+  font-family: 'Teko', sans-serif;
+  font-size: 2.75rem;
+  background: transparent;
+  border: none;
+  border-bottom: 0.25rem solid rgb(48, 45, 45);
+  resize: none;
+  line-height: 2.75rem;
+  padding: 1rem;
+}
+
+#currentDay {
+  font-size: 3.75rem;
+  font-weight: normal;
+  text-align: center;
+  font-family: 'Playfair Display', sans-serif;
+  color: rgb(250, 246, 199);
+}
+
+.jumbotron {
+  margin-bottom: 4.5rem;
+  text-align: center;
+  background-color: rgb(75, 146, 170);
+  font-family: 'Playfair Display', serif;
+  color: rgb(250, 246, 199);
+  border-radius: 0;
+  padding-bottom: 1.25rem;
+  opacity: 0.88; 
+}
+
+.fas {
+  color : rgb(250, 246, 199);
+}
+
+.lead {
+ font-size: 2.75rem;
+}
+
+.container {
+  margin-bottom: 10rem;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  margin-bottom: 2.75rem;
+  opacity: 0.925;
+}
+
+.rowHour {
+  text-align: center;
+  border: 0.2rem solid rgb(17, 59, 73);
+  border-bottom-left-radius: 3.5rem;
+  padding: 1rem 1rem 1rem 1rem;
+  background-color: rgb(28, 91, 112);
+  color:rgb(48, 45, 45);
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 3.5rem;
+  color: white;
+  }
+
+.past {
+  background-color: #d3d3d3;
+  font-weight: 300;
+}
+
+.present {
+  background-color: rgba(248, 191, 66, 0.76);
+  font-weight: 500;
+}
+
+.future {
+  background-color: rgba(39, 204, 141, 0.76);
+  color: white;
+  font-weight: 100;
+}
+
+.saveBtn {
+  border: 0.2rem solid rgb(17, 59, 73);
+  border-top-right-radius: 3.5rem;
+  padding: 1.75rem 1rem 1rem 1rem;
+  background-color: rgb(28, 91, 112);
+  overflow:hidden;
+  text-align: center;
+  line-height: 7rem;
+  font-family: 'Teko', sans-serif;
+  font-size: 4rem;
+  color: white;
+}
+
+.far {
+  color : white;
+}
+
+textarea:hover {
+  filter:brightness(110%);
+}
+
+.saveBtn:hover {
+  font-size: 3rem;
+  transition: all .2s ease-in-out;
+}
