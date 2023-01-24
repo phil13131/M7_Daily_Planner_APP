@@ -1,3 +1,9 @@
+/**
+ * Author: Phil Davis
+ *  Date: 19 January, 2023
+ * Description: Daily Planner APP Challenge Style.CSS
+ */
+
 var today = moment().format("dddd [|] LL [| Week] W");
 
 // you can also use $("#currentDay").append(today); OR document.getElementById("currentDay").textContent = today;

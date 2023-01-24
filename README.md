@@ -1,6 +1,10 @@
 <br>
 
-## **daily planner**<br>
+ ## Author: Phil Davis
+ ## Date: 19 January, 2023
+ ## Description: Daily Planner APP Challenge 
+
+<br>
 <br>
 
 
@@ -30,27 +34,19 @@ The codebase achieves the following criteria:<br>
 <br>
 <br>
 
-## usage
+## Accessing the site
+Please visit the [site](https://phil13131.github.io/M7_Daily_Planner_App/) hosted on GitHub Pages.
 
-***
+## Screenshots
+![Screenshot 1]![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_1.png)
 
-A full view of the page <br>
-<br>
 
-![alt text](assets/images/scrshot.png)
-
-<br>
-<br>
-
-A short video that shows how the UI works.<br>
-<br>
-
-![daily planner demo](assets/images/daily-planner.gif)
-
+## License
+This project uses the MIT license.
 <br>
 <br>
 
-## some valuable references
+## Valuable references
 
 ***
 
@@ -65,7 +61,6 @@ These notes and links are listing some valuable references among others that I u
 
 [https://developer.mozilla.org/](https://developer.mozilla.org/)
 
-
 [https://fonts.google.com/?preview.text_type=custom](https://fonts.google.com/?preview.text_type=custom)
 
 [https://fontawesome.com/](https://fontawesome.com/)
@@ -75,22 +70,11 @@ These notes and links are listing some valuable references among others that I u
 [https://www.screencastify.com/](https://www.screencastify.com/)
 
 <br>
-<br>
 
 ## credits
 
-
 <br>
 
-## license
 
 ***
 
-
-<br>
-
-## 
-<br>
-<br>
-
----
