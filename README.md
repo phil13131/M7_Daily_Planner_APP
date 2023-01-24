@@ -35,12 +35,15 @@ The codebase achieves the following criteria:<br>
 <br>
 
 ## Accessing the site
-Please visit the [site](https://phil13131.github.io/M7_Daily_Planner_App/) hosted on GitHub Pages.
+Please visit the [site](https://phil13131.github.io/M7_Daily_Planner_APP/) hosted on GitHub Pages.
 
 ## Screenshots
-![Screenshot 1]![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_9.png)
-![Screenshot 2]![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png
+![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_9.png)
+![Screenshot 2](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png
+![Screenshot 3](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png
+![Screenshot 4](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png
 
+<br>
 
 ## License
 This project uses the MIT license.
