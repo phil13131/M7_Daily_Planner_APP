@@ -38,7 +38,8 @@ The codebase achieves the following criteria:<br>
 Please visit the [site](https://phil13131.github.io/M7_Daily_Planner_App/) hosted on GitHub Pages.
 
 ## Screenshots
-![Screenshot 1]![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_1.png)
+![Screenshot 1]![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_9.png)
+![Screenshot 2]![Screenshot 1](https://github.com/phil13131/M7_Daily_Planner_App/blob/main/Screenshot_10.png
 
 
 ## License
